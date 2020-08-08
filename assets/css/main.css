@@ -3249,19 +3249,19 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: rgba(62, 146, 204, 0.5);
+			background-color: rgba(62, 146, 204,0.5);
 		}
 
 		.wrapper.style2-alt {
-			background-color: rgb(62, 146, 204);
+			background-color: rgba(62, 146, 204,0.5);
 		}
 
 		.wrapper.style3 {
-			background-color: #b74e91;
+			background-color: rgba(62, 146, 204,1);
 		}
 
 		.wrapper.style3-alt {
-			background-color: #953d75;
+			background-color: rgba(62, 146, 204,1);
 		}
 
 		.wrapper.fullscreen {
