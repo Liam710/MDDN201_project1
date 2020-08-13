@@ -3250,19 +3250,19 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color:rgba(30, 27, 24,0.8);
+			background-color:#fffaff;
 		}
 
 		.wrapper.style2-alt {
-			background-color:rgba(30, 27, 24,0.8);
+			background-color:#fffaff;
 		}
 
 		.wrapper.style3 {
-			background-color: rgba(62, 146, 204,1);
+			background-color: #1e1b18;
 		}
 
 		.wrapper.style3-alt {
-			background-color: rgba(62, 146, 204,1);
+			background-color: #1e1b18;
 		}
 
 		.wrapper.fullscreen {
@@ -3912,4 +3912,14 @@ input, select, textarea {
 
 h7{
 	font-weight: lighter;
+}
+
+h2.white {
+	color: #fffaff;
+}
+
+p.white {
+	margin: 0 0 2em 0;
+	color: #fffaff;
+	font-size: 1.1em;
 }
